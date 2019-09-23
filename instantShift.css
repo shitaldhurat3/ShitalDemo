@@ -1,0 +1,32 @@
+.navbar-custom{
+   background-color: rgb(105, 9, 9);
+   
+}
+.navbar-custom2{
+    background-color: rgb(43, 42, 42);
+    height: 40px;
+    
+ }
+ .navbar-brand1{
+     font-size: 25px;
+ }
+ .navbar-brand2{
+    font-size: 25px;
+}
+.navbar-brand3{
+    font-size: 25px;
+}
+.navbar-brand4{
+    font-size: 25px;
+}
+/* .badge-primery{
+    background-color: black;
+} */
+.form-control1{
+
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-block-end-color:black;
+}
